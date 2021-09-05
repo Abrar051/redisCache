@@ -1,0 +1,22 @@
+{
+  "name": "rediscache",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.3",
+    "connect-redis": "^6.0.0",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.3",
+    "express-session": "^1.17.2",
+    "git": "^0.1.5",
+    "nodemon": "^2.0.12",
+    "redis": "^3.1.2",
+    "status": "^0.0.13"
+  }
+}
